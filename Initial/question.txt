@@ -1,0 +1,32 @@
+TASK -2:
+
+Problem Statement:
+
+The given Dataset is of IPL 2013, and it contains data of most players who played in it and it has their performance details as well. 
+
+Now, consider yourself to be the manager of a particular team, your job is to find the best possible insights from the data which can be useful for your team in the next auction. There's is no retainment policy and you are free to bid on any player of your choice.
+
+Also, you are required to find as many insights as possible from the data and have to present them in a form of ppt. 
+
+Some examples of insights which can be found are:(These are some some examples don't limit yourselves to it)
+Find the age vs price distribution 
+
+Show the distribution of age wrt price for different playing roles
+
+Plot a histogram for sold price
+
+Plot a box plot to find the outliers 
+
+Identify the players with their playing roles who have sold price greater than $1.35M
+
+Plot a scatter plot b/w sold price and sixers. Also give insights.(Hint: A typical insight would be to identify a player that has low sold price and high number of sixes.
+
+
+The deadline to submit the project is by sunday 11th April, 2021. 
+
+PS:
+This will be the last task of this workshop and it is compulsory for everyone to do it. After the completion of this task, and tallying the performance of everyone, the Microsoft Certificates will be shared. 
+
+Happy Learning! 🎉
+
+Team Floxus
